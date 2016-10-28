@@ -38,26 +38,26 @@ class Missile3:
         self.image.draw(self.x, self.y)
 
 class GrandAttack1:
-    global ga1
-    ga1 = False
+    global grandattck1
+    grandattack1 = False
 
     def __init__(self):
         self.x = 200
         self.y = -200
 
     def update(self):
-        global ga1
+        global grandattck1
         self.image = load_image('object/Player/GrateAttack1.png')
-        if (ga1 == True):
+        if (grandattck1 == True):
             self.y += 20
         if self.y > 1000:
             self.y = -200
-            ga1 = False
+            grandattck1 = False
 
     def handle_event(self, event):
-        global ga1
+        global grandattck1
         if (event.type, event.key) == (SDL_KEYDOWN, SDLK_a):
-            ga1 = True
+            grandattck1 = True
 
     def draw(self):
         self.image.draw(self.x, self.y)
