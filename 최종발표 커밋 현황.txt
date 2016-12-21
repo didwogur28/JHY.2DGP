@@ -1,0 +1,50 @@
+commit 6d603c038873332656fd0d32f44c27c4a473868a
+Author: didwogur28 <didwogur28@naver.com>
+Date:   Fri Nov 18 03:46:06 2016 +0900
+
+    11월 17일 수정내용 : 충돌체크 수정 , 사운드 수정 및 추가
+
+    11월 17일 수정내용 : 충돌체크 수정 , 사운드 수정 및 추가
+
+commit c792168c92d83374f9440a52955284fce168529c
+Author: didwogur28 <didwogur28@naver.com>
+Date:   Sat Nov 26 04:45:21 2016 +0900
+
+    11월 4주차 수정내용
+
+    11월 4주차 수정내용 :  UI구현, 각종 세부 버그 수정
+
+commit cec00573fc4360d8c3411fcfad33e475c4c33820
+Author: didwogur28 <didwogur28@naver.com>
+Date:   Thu Dec 15 05:44:45 2016 +0900
+
+    12월 15일 수정
+
+    12월 15일 수정
+
+commit 0c747451a7a8f0d2aceb5ce6101fba9f010c5f64
+Author: didwogur28 <didwogur28@naver.com>
+Date:   Mon Dec 19 04:03:48 2016 +0900
+
+    12월 18일 수정
+
+    12월 18일 수정
+
+commit 70c466d245e7c13ce4fb572ebb6ac92ad0a9f048
+Author: didwogur28 <didwogur28@naver.com>
+Date:   Tue Dec 20 02:39:55 2016 +0900
+
+    최종 발표 자료
+
+    최종 발표 자료
+
+
+commit 3cb6e525d239b5abda31af1ce723b3996da5d563
+Author: didwogur28 <didwogur28@naver.com>
+Date:   Tue Dec 20 15:21:06 2016 +0900
+
+    발표ppt
+
+    발표ppt
+
+
