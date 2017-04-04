@@ -1,0 +1,1619 @@
+﻿Log file open, 04/02/17 23:25:59
+LogInit:Display: Running engine for game: SteamProject
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(2036909520) SRandInit(2036909520).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.548022
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline:Display: STEAM: Loading Steam SDK 1.32
+LogOnline:Warning: STEAM: Steam API disabled!
+LogOnline:Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.04.02-14.25.59:860][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.02-14.25.59:860][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.02-14.25.59:887][  0]LogInit: Computer: DESKTOP-CEH7678
+[2017.04.02-14.25.59:887][  0]LogInit: User: Family
+[2017.04.02-14.25.59:887][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.04.02-14.25.59:887][  0]LogInit: High frequency timer resolution =3.234379 MHz
+[2017.04.02-14.25.59:888][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.04.02-14.25.59:888][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.02-14.25.59:888][  0]LogMemory: Process Physical Memory: 264.71 MB used, 264.71 MB peak
+[2017.04.02-14.25.59:888][  0]LogMemory: Process Virtual Memory: 262.68 MB used, 262.68 MB peak
+[2017.04.02-14.25.59:888][  0]LogMemory: Physical Memory: 3598.32 MB used,  12719.27 MB free, 16317.59 MB total
+[2017.04.02-14.25.59:888][  0]LogMemory: Virtual Memory: 678.59 MB used,  12719.27 MB free, 134217728.00 MB total
+[2017.04.02-14.26.00:166][  0]LogTextLocalizationManager: No specific translations for ('ko-KR') exist, so ('ko') translations will be used.
+[2017.04.02-14.26.00:241][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:KismetSchema, Key:Default):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (940523119) Localized String: (디폴트)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (940523119) Localized String: (기본)
+[2017.04.02-14.26.00:241][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:InternalTimeAccumulator):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (502993589) Localized String: (이 노드에서 애셋을 레퍼런싱하는 데 사용되는 누적 시간입니다.)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (502993589) Localized String: (이 노드에서 애셋을 레퍼런싱하는 데 사용된 누적 시간입니다.)
+[2017.04.02-14.26.00:241][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:bIgnoreForRelevancyTest):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (319969718) Localized String: (True 면, 스테이트에서 최고 가중치 애니메이션을 찾는 "Relevant anim" 노드는 이 노드를 무시합니다.
+ )
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (319969718) Localized String: (True 면 스테이트 내 최고 웨이팅된 애니메이션을 찾는 "Relevant anim" 노드가 무시됩니다.
+ )
+[2017.04.02-14.26.00:241][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:BlendWeight):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (-1232800293) Localized String: (이 노드에 마지막 걸린 블렌드웨이트 입니다.)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (-1232800293) Localized String: (이 노드에 대해 마지막 접한 블렌드 웨이트)
+[2017.04.02-14.26.02:468][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.02-14.26.02:502][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2017.04.02-14.26.02:502][  0]LogD3D11RHI:       6100/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.04.02-14.26.02:504][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.04.02-14.26.02:504][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.04.02-14.26.02:504][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.02-14.26.02:508][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.02-14.26.02:508][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2017.04.02-14.26.02:508][  0]LogWindows: EnumDisplayDevices:
+[2017.04.02-14.26.02:509][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2017.04.02-14.26.02:509][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.04.02-14.26.02:509][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.04.02-14.26.02:510][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.04.02-14.26.02:510][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.04.02-14.26.02:510][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2017.04.02-14.26.02:510][  0]LogD3D11RHI:   Driver Version: 376.53 (internal:21.21.13.7653, unified:376.53)
+[2017.04.02-14.26.02:510][  0]LogD3D11RHI:      Driver Date: 12-29-2016
+[2017.04.02-14.26.02:510][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.04.02-14.26.02:525][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.02-14.26.02:557][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.04.02-14.26.02:564][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Intermediate/Shaders/WorkingDirectory/4548/).
+[2017.04.02-14.26.02:564][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/didwo/AppData/Local/Temp/UnrealShaderWorkingDir/ECEECCC34FCC4483E5F502A38C3C7277/'.
+[2017.04.02-14.26.02:564][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.02-14.26.05:373][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.02-14.26.05:428][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.02-14.26.05:488][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.02-14.26.05:547][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.02-14.26.05:611][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.02-14.26.05:679][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.02-14.26.05:740][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.02-14.26.05:800][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.02-14.26.05:847][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.02-14.26.05:909][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.02-14.26.05:976][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.02-14.26.06:038][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.02-14.26.06:099][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.02-14.26.06:155][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.02-14.26.06:211][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.02-14.26.06:320][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.02-14.26.06:320][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.02-14.26.06:360][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.02-14.26.06:472][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.02-14.26.06:507][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.02-14.26.06:563][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.02-14.26.06:617][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.02-14.26.06:674][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.02-14.26.06:740][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.02-14.26.06:740][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.02-14.26.07:413][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.02-14.26.07:622][  0]LogDerivedDataCache: Loaded boot cache 0.21s 50MB C:/Users/didwo/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.02-14.26.07:622][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/didwo/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.02-14.26.07:622][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.02-14.26.07:622][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.02-14.26.07:622][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.02-14.26.07:622][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.02-14.26.07:647][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.02-14.26.07:659][  0]LogDerivedDataCache: Using Local data cache path C:/Users/didwo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.02-14.26.10:391][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.02-14.26.10:398][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.02-14.26.10:674][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.02-14.26.10:729][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.02-14.26.10:780][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.02-14.26.10:780][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.02-14.26.10:780][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.02-14.26.12:100][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: steamproject, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2586755480
+[2017.04.02-14.26.12:178][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
+[2017.04.02-14.26.12:238][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.032975 seconds
+[2017.04.02-14.26.12:245][  0]LogUObjectArray: 31953 objects as part of root set at end of initial load.
+[2017.04.02-14.26.12:245][  0]LogUObjectAllocator: 7149672 out of 0 bytes used by permanent object pool.
+[2017.04.02-14.26.12:245][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.02-14.26.13:216][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.02-14.26.13:227][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.02-14.26.13:227][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.02-14.26.15:670][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.02-14.26.15:710][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.02-14.26.16:179][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.02-14.26.16:697][  0]SourceControl: 정보 소스 콘트롤이 꺼졌습니다.
+[2017.04.02-14.26.16:698][  0]SourceControl: 정보 소스 콘트롤이 꺼졌습니다.
+[2017.04.02-14.26.16:753][  0]SourceControl: 정보 소스 콘트롤이 꺼졌습니다.
+[2017.04.02-14.26.16:803][  0]SourceControl: 정보 소스 콘트롤이 꺼졌습니다.
+[2017.04.02-14.26.18:220][  0]LogEngine: Initializing Engine...
+[2017.04.02-14.26.18:222][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.02-14.26.18:625][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.02-14.26.18:646][  0]LogInit: XAudio2 using '헤드폰(2- High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.02-14.26.18:664][  0]LogInit: FAudioDevice initialized.
+[2017.04.02-14.26.18:688][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB C:/Users/didwo/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.02-14.26.18:697][  0]LogInit: Texture streaming: Enabled
+[2017.04.02-14.26.18:964][  0]LogInit: Transaction tracking system initialized
+[2017.04.02-14.26.19:385][  0]BlueprintLog: New page: 에디터 로드
+[2017.04.02-14.26.20:456][  0]LocalizationService: 정보 현지화 서비스가 비활성화되었습니다.
+[2017.04.02-14.26.21:259][  0]LogConsoleResponse:Display: 
+[2017.04.02-14.26.21:747][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.02-14.26.21:747][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.02-14.26.22:455][  0]LogFileCache: Scanning file cache for directory 'C:/Users/didwo/Desktop/SteamProject 4.14ver/Content/' took 0.02s
+[2017.04.02-14.26.22:959][  0]SourceControl: 정보 소스 콘트롤이 꺼졌습니다.
+[2017.04.02-14.26.22:961][  0]Cmd: MAP LOAD FILE="../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.02-14.26.22:966][  0]LightingResults: New page: 라이팅 빌드
+[2017.04.02-14.26.23:015][  0]MapCheck: New page: 맵 체크
+[2017.04.02-14.26.23:015][  0]LightingResults: New page: 라이팅 빌드
+[2017.04.02-14.26.23:635][  0]LogAIModule: Creating AISystem for world MainMenu
+[2017.04.02-14.26.23:641][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.02-14.26.23:645][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.02-14.26.23:692][  0]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 47.238ms.
+[2017.04.02-14.26.23:692][  0]LogFileHelpers: Loading map 'MainMenu' took 0.732
+[2017.04.02-14.26.23:946][  0]LogCollectionManager: Loaded 0 collections in 0.001251 seconds
+[2017.04.02-14.26.24:051][  0]LogFileCache: Scanning file cache for directory 'C:/Users/didwo/Desktop/SteamProject 4.14ver/Saved/Collections/' took 0.01s
+[2017.04.02-14.26.24:051][  0]LogFileCache: Scanning file cache for directory 'C:/Users/didwo/Desktop/SteamProject 4.14ver/Content/Developers/Family/Collections/' took 0.01s
+[2017.04.02-14.26.24:051][  0]LogFileCache: Scanning file cache for directory 'C:/Users/didwo/Desktop/SteamProject 4.14ver/Content/Collections/' took 0.01s
+[2017.04.02-14.26.24:051][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.04.02-14.26.24:063][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2192 classes and 431 folders.
+[2017.04.02-14.26.24:125][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.02-14.26.24:125][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.02-14.26.24:126][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.04.02-14.26.24:197][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.04.02-14.26.24:547][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.04.02-14.26.24:605][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.04.02-14.26.24:814][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.02-14.26.24:831][  0]LogUObjectGlobals:Warning: 'Class 없음.' 오브젝트를 찾는 데 실패했습니다.
+[2017.04.02-14.26.24:907][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.04.02-14.26.24:907][  0]LogLoad: (Engine Initialization) Total time: 28.71 seconds
+[2017.04.02-14.26.24:907][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.29 seconds
+[2017.04.02-14.26.24:907][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.04.02-14.26.25:247][  0]LogOcInput: OculusInput pre-init called
+[2017.04.02-14.26.25:272][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.04.02-14.26.25:604][  0]LogRenderer: Reallocating scene render targets to support 1244x576 NumSamples 1 (Frame:2).
+[2017.04.02-14.26.26:381][  3]LogAssetRegistry: Asset discovery search completed in 14.2247 seconds
+[2017.04.02-14.26.26:381][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.04.02-14.26.26:381][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000315 seconds (updated 0 objects)
+[2017.04.02-14.26.44:422][513]LogAIModule: Creating AISystem for world 8Stage
+[2017.04.02-14.26.44:632][513]Cmd: MAP LOAD FILE="../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Content/Maps/8Stage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.02-14.26.44:632][513]LightingResults: New page: 라이팅 빌드
+[2017.04.02-14.26.44:633][513]LoadErrors: New page: 맵 로드중: 8Stage.umap
+[2017.04.02-14.26.44:633][513]MapCheck: New page: 맵 체크
+[2017.04.02-14.26.44:633][513]LightingResults: New page: 라이팅 빌드
+[2017.04.02-14.26.44:744][513]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.02-14.26.44:776][513]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.02-14.26.44:841][513]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 66.061ms.
+[2017.04.02-14.26.44:842][513]LogFileHelpers: Loading map '8Stage' took 0.212
+[2017.04.02-14.27.51:555][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_341)
+[2017.04.02-14.27.52:168][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_340)
+[2017.04.02-14.27.52:936][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_339)
+[2017.04.02-14.27.53:520][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_338)
+[2017.04.02-14.27.54:032][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_337)
+[2017.04.02-14.28.02:631][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_349)
+[2017.04.02-14.28.12:320][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_350)
+[2017.04.02-14.28.13:086][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_349)
+[2017.04.02-14.28.14:049][785]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.04.02-14.28.14:943][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_356)
+[2017.04.02-14.28.23:854][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_349)
+[2017.04.02-14.28.24:591][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_356)
+[2017.04.02-14.28.27:073][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_349)
+[2017.04.02-14.28.27:947][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_356)
+[2017.04.02-14.28.32:007][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_349)
+[2017.04.02-14.28.33:031][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_356)
+[2017.04.02-14.31.10:946][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_349)
+[2017.04.02-14.31.11:673][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_356)
+[2017.04.02-14.31.22:060][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_342)
+[2017.04.02-14.31.25:596][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_356)
+[2017.04.02-14.32.01:240][ 86]Cmd: SELECT NONE
+[2017.04.02-14.32.07:449][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_350)
+[2017.04.02-14.32.10:136][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_356)
+[2017.04.02-14.32.17:103][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_341)
+[2017.04.02-14.32.18:617][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_358)
+[2017.04.02-14.32.35:504][344]Cmd: SELECT NONE
+[2017.04.02-14.32.36:023][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_358)
+[2017.04.02-14.32.36:344][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_359)
+[2017.04.02-14.33.08:108][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_341)
+[2017.04.02-14.33.10:318][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_361)
+[2017.04.02-14.33.13:752][923]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_360)
+[2017.04.02-14.33.14:435][995]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_359)
+[2017.04.02-14.33.15:044][ 59]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_358)
+[2017.04.02-14.33.18:532][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_361)
+[2017.04.02-14.33.20:625][675]Cmd: TRANSACTION UNDO
+[2017.04.02-14.33.20:625][675]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.33.23:728][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_361)
+[2017.04.02-14.33.32:536][409]Cmd: TRANSACTION UNDO
+[2017.04.02-14.33.32:536][409]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.33.35:456][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_361)
+[2017.04.02-14.33.38:372][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_357)
+[2017.04.02-14.33.39:618][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_361)
+[2017.04.02-14.33.44:574][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_360)
+[2017.04.02-14.33.48:913][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_359)
+[2017.04.02-14.33.53:456][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_358)
+[2017.04.02-14.34.00:262][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_357)
+[2017.04.02-14.34.02:614][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_361)
+[2017.04.02-14.34.18:867][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_362)
+[2017.04.02-14.35.14:350][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_363)
+[2017.04.02-14.35.17:210][467]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_364)
+[2017.04.02-14.35.22:547][100]Cmd: SELECT NONE
+[2017.04.02-14.35.23:072][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_363)
+[2017.04.02-14.35.26:824][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_364)
+[2017.04.02-14.35.32:562][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_364)
+[2017.04.02-14.35.44:007][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_365)
+[2017.04.02-14.36.20:077][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_367)
+[2017.04.02-14.36.26:697][892]Cmd: SELECT NONE
+[2017.04.02-14.36.27:806][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_367)
+[2017.04.02-14.37.46:056][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_330)
+[2017.04.02-14.37.52:885][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_17)
+[2017.04.02-14.38.00:602][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_332)
+[2017.04.02-14.38.02:358][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_331)
+[2017.04.02-14.38.09:852][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_333)
+[2017.04.02-14.38.10:494][205]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_332)
+[2017.04.02-14.38.13:060][506]Cmd: TRANSACTION UNDO
+[2017.04.02-14.38.13:060][506]LogEditorTransaction: Undo 액터 이동
+[2017.04.02-14.38.13:561][560]Cmd: TRANSACTION UNDO
+[2017.04.02-14.38.13:561][560]LogEditorTransaction: Undo 액터 이동
+[2017.04.02-14.38.15:202][754]Cmd: TRANSACTION UNDO
+[2017.04.02-14.38.15:202][754]LogEditorTransaction: Undo 액터 이동
+[2017.04.02-14.38.16:090][859]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_326)
+[2017.04.02-14.38.16:879][949]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_327)
+[2017.04.02-14.38.18:394][106]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_328)
+[2017.04.02-14.38.18:866][147]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_329)
+[2017.04.02-14.38.19:374][203]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_330)
+[2017.04.02-14.38.20:080][283]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_331)
+[2017.04.02-14.38.23:482][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_333)
+[2017.04.02-14.38.24:403][776]Cmd: TRANSACTION UNDO
+[2017.04.02-14.38.24:403][776]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.38.27:662][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_333)
+[2017.04.02-14.38.28:384][237]Cmd: TRANSACTION UNDO
+[2017.04.02-14.38.28:384][237]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.38.32:515][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_333)
+[2017.04.02-14.38.33:231][801]Cmd: TRANSACTION UNDO
+[2017.04.02-14.38.33:231][801]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.38.35:815][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_333)
+[2017.04.02-14.38.36:387][163]Cmd: TRANSACTION UNDO
+[2017.04.02-14.38.36:387][163]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.38.40:422][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_333)
+[2017.04.02-14.38.41:057][706]Cmd: TRANSACTION UNDO
+[2017.04.02-14.38.41:057][706]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.38.45:228][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_333)
+[2017.04.02-14.38.45:979][280]Cmd: TRANSACTION UNDO
+[2017.04.02-14.38.45:979][280]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.38.51:160][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_333)
+[2017.04.02-14.38.52:007][986]Cmd: TRANSACTION UNDO
+[2017.04.02-14.38.52:007][986]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.38.56:206][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_333)
+[2017.04.02-14.38.56:946][562]Cmd: TRANSACTION UNDO
+[2017.04.02-14.38.56:946][562]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.38.58:046][683]Cmd: SELECT NONE
+[2017.04.02-14.39.00:925][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_370)
+[2017.04.02-14.39.07:861][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_329)
+[2017.04.02-14.39.08:961][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_330)
+[2017.04.02-14.39.18:267][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_332)
+[2017.04.02-14.39.21:264][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_22)
+[2017.04.02-14.39.21:676][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_124)
+[2017.04.02-14.39.26:911][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_331)
+[2017.04.02-14.39.42:572][684]Cmd: SELECT NONE
+[2017.04.02-14.39.58:421][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_331)
+[2017.04.02-14.39.58:906][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_330)
+[2017.04.02-14.40.56:605][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_264)
+[2017.04.02-14.42.46:524][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_227)
+[2017.04.02-14.43.16:844][350]Cmd: SELECT NONE
+[2017.04.02-14.43.26:703][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_378)
+[2017.04.02-14.43.27:159][378]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_379)
+[2017.04.02-14.43.27:770][446]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_380)
+[2017.04.02-14.43.28:460][524]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_381)
+[2017.04.02-14.43.28:983][582]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_382)
+[2017.04.02-14.43.29:775][672]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_383)
+[2017.04.02-14.43.30:375][739]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_384)
+[2017.04.02-14.43.30:932][801]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_385)
+[2017.04.02-14.43.53:082][360]Cmd: SELECT NONE
+[2017.04.02-14.43.53:499][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_385)
+[2017.04.02-14.44.09:917][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_355)
+[2017.04.02-14.44.13:873][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_382)
+[2017.04.02-14.44.15:487][305]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_381)
+[2017.04.02-14.44.16:061][360]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_380)
+[2017.04.02-14.44.16:525][411]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_379)
+[2017.04.02-14.44.17:455][518]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_378)
+[2017.04.02-14.44.25:365][406]Cmd: SELECT NONE
+[2017.04.02-14.44.26:108][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_382)
+[2017.04.02-14.44.27:393][644]Cmd: TRANSACTION UNDO
+[2017.04.02-14.44.27:393][644]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.44.27:699][679]Cmd: TRANSACTION UNDO
+[2017.04.02-14.44.27:699][679]LogEditorTransaction: Undo 선택 않음
+[2017.04.02-14.44.32:067][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_382)
+[2017.04.02-14.44.32:975][298]Cmd: TRANSACTION UNDO
+[2017.04.02-14.44.32:975][298]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.44.36:673][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_382)
+[2017.04.02-14.44.42:246][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_381)
+[2017.04.02-14.44.48:839][149]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_380)
+[2017.04.02-14.44.50:077][280]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_378)
+[2017.04.02-14.44.51:392][428]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_379)
+[2017.04.02-14.44.51:755][467]Cmd: TRANSACTION UNDO
+[2017.04.02-14.44.51:755][467]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.44.52:148][509]Cmd: TRANSACTION UNDO
+[2017.04.02-14.44.52:148][509]LogEditorTransaction: Undo 브러시 표면 선택
+[2017.04.02-14.44.52:696][570]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_379)
+[2017.04.02-14.44.54:660][800]Cmd: TRANSACTION UNDO
+[2017.04.02-14.44.54:661][800]LogEditorTransaction: Undo 액터 이동
+[2017.04.02-14.44.54:662][800]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/8Stage.8Stage:PersistentLevel.Box브러시.BrushComponent0) Component already registered.
+[2017.04.02-14.44.55:413][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_380)
+[2017.04.02-14.44.56:206][976]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_379)
+[2017.04.02-14.44.56:771][ 39]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_378)
+[2017.04.02-14.45.10:665][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_380)
+[2017.04.02-14.45.18:409][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_380)
+[2017.04.02-14.45.23:825][179]Cmd: SELECT NONE
+[2017.04.02-14.45.26:070][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_380)
+[2017.04.02-14.45.30:222][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_381)
+[2017.04.02-14.45.35:649][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_380)
+[2017.04.02-14.45.41:340][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_381)
+[2017.04.02-14.45.41:756][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_380)
+[2017.04.02-14.45.51:282][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_381)
+[2017.04.02-14.45.58:990][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_382)
+[2017.04.02-14.46.04:246][900]Cmd: SELECT NONE
+[2017.04.02-14.46.06:458][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_382)
+[2017.04.02-14.46.08:407][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_383)
+[2017.04.02-14.46.11:451][724]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_384)
+[2017.04.02-14.46.13:507][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_383)
+[2017.04.02-14.46.18:729][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_384)
+[2017.04.02-14.46.20:608][793]Cmd: SELECT NONE
+[2017.04.02-14.46.30:473][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_381)
+[2017.04.02-14.46.31:816][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_382)
+[2017.04.02-14.46.33:616][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_380)
+[2017.04.02-14.46.35:482][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_379)
+[2017.04.02-14.46.45:107][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_378)
+[2017.04.02-14.47.08:577][639]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2017.04.02-14.47.10:304][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_221)
+[2017.04.02-14.48.02:369][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_383)
+[2017.04.02-14.48.03:061][318]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_384)
+[2017.04.02-14.48.03:808][401]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_385)
+[2017.04.02-14.48.08:454][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_381)
+[2017.04.02-14.48.09:176][ 15]Cmd: TRANSACTION UNDO
+[2017.04.02-14.48.09:176][ 15]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.48.14:826][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_391)
+[2017.04.02-14.49.12:886][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_392)
+[2017.04.02-14.49.13:485][280]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_391)
+[2017.04.02-14.49.29:106][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_396)
+[2017.04.02-14.49.29:963][223]Cmd: SELECT NONE
+[2017.04.02-14.49.34:294][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_389)
+[2017.04.02-14.49.34:871][632]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_390)
+[2017.04.02-14.49.41:431][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_389)
+[2017.04.02-14.49.42:296][485]Cmd: TRANSACTION UNDO
+[2017.04.02-14.49.42:296][485]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.49.47:896][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_397)
+[2017.04.02-14.49.55:595][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_398)
+[2017.04.02-14.50.02:113][781]Cmd: SELECT NONE
+[2017.04.02-14.50.15:675][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_207)
+[2017.04.02-14.50.37:084][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_400)
+[2017.04.02-14.51.10:647][557]Cmd: SELECT NONE
+[2017.04.02-14.51.15:968][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_403)
+[2017.04.02-14.51.18:453][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_398)
+[2017.04.02-14.51.23:146][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_403)
+[2017.04.02-14.51.45:639][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_398)
+[2017.04.02-14.51.50:409][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_403)
+[2017.04.02-14.51.54:504][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_402)
+[2017.04.02-14.51.55:510][786]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_401)
+[2017.04.02-14.51.57:303][976]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_400)
+[2017.04.02-14.51.57:917][ 45]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_399)
+[2017.04.02-14.52.05:824][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_402)
+[2017.04.02-14.52.12:800][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_401)
+[2017.04.02-14.52.16:532][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_400)
+[2017.04.02-14.52.19:758][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_399)
+[2017.04.02-14.52.25:285][222]Cmd: SELECT NONE
+[2017.04.02-14.52.28:695][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_341)
+[2017.04.02-14.52.43:195][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_340)
+[2017.04.02-14.52.44:170][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_341)
+[2017.04.02-14.52.57:387][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_336)
+[2017.04.02-14.52.58:363][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_337)
+[2017.04.02-14.53.00:408][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_341)
+[2017.04.02-14.53.02:002][718]Cmd: TRANSACTION UNDO
+[2017.04.02-14.53.02:002][718]LogEditorTransaction: Undo 액터 이동
+[2017.04.02-14.53.02:434][766]Cmd: TRANSACTION UNDO
+[2017.04.02-14.53.02:435][766]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.53.02:899][816]Cmd: TRANSACTION UNDO
+[2017.04.02-14.53.02:899][816]LogEditorTransaction: Undo 액터 이동
+[2017.04.02-14.53.03:295][862]Cmd: TRANSACTION UNDO
+[2017.04.02-14.53.03:295][862]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.53.03:662][901]Cmd: TRANSACTION UNDO
+[2017.04.02-14.53.03:662][901]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.53.04:031][940]Cmd: TRANSACTION UNDO
+[2017.04.02-14.53.04:031][940]LogEditorTransaction: Undo 액터 위치를 설정합니다.
+[2017.04.02-14.53.04:641][ 11]Cmd: SELECT NONE
+[2017.04.02-14.53.10:697][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_33)
+[2017.04.02-14.53.23:736][244]Cmd: SELECT NONE
+[2017.04.02-14.53.26:162][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_341)
+[2017.04.02-14.54.07:127][354]Cmd: SELECT NONE
+[2017.04.02-14.54.15:518][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_25)
+[2017.04.02-14.54.20:800][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_83)
+[2017.04.02-14.54.22:214][144]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_85)
+[2017.04.02-14.54.23:339][274]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_80)
+[2017.04.02-14.54.24:110][362]LogEditorViewport: Clicking on Actor (CTRL LMB): PostProcessVolume (PostProcessVolume)
+[2017.04.02-14.54.24:764][437]Cmd: TRANSACTION UNDO
+[2017.04.02-14.54.24:764][437]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.54.25:405][505]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_14)
+[2017.04.02-14.54.25:885][557]Cmd: TRANSACTION UNDO
+[2017.04.02-14.54.25:885][557]LogEditorTransaction: Undo 액터 이동
+[2017.04.02-14.54.39:497][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_85)
+[2017.04.02-14.54.40:412][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_85)
+[2017.04.02-14.54.40:990][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_115)
+[2017.04.02-14.54.49:412][266]Cmd: SELECT NONE
+[2017.04.02-14.54.56:895][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_15)
+[2017.04.02-14.55.21:908][ 90]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2017.04.02-14.55.28:626][886]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Tile_Concrete6_235)
+[2017.04.02-14.55.55:938][ 84]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.04.02-14.55.58:604][392]Cmd: TRANSACTION UNDO
+[2017.04.02-14.55.58:604][392]LogEditorTransaction: Undo 액터 이동
+[2017.04.02-14.56.00:585][625]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.04.02-14.56.01:113][687]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.04.02-14.56.03:165][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_36)
+[2017.04.02-14.56.21:019][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_20)
+[2017.04.02-14.56.29:800][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_6)
+[2017.04.02-14.57.05:810][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_10)
+[2017.04.02-14.57.25:688][482]Cmd: SELECT NONE
+[2017.04.02-14.57.26:472][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_5)
+[2017.04.02-14.57.39:653][ 81]Cmd: SELECT NONE
+[2017.04.02-14.57.44:095][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_80)
+[2017.04.02-14.57.44:709][666]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_83)
+[2017.04.02-14.57.46:204][839]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_85)
+[2017.04.02-14.57.51:139][425]Cmd: SELECT NONE
+[2017.04.02-14.57.51:764][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_80)
+[2017.04.02-14.57.56:803][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_83)
+[2017.04.02-14.58.02:245][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_85)
+[2017.04.02-14.58.07:463][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_115)
+[2017.04.02-14.58.07:766][362]Cmd: DELETE
+[2017.04.02-14.58.07:766][362]Cmd: ACTOR DELETE
+[2017.04.02-14.58.07:767][362]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.07:779][362]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.04.02-14.58.08:073][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_85)
+[2017.04.02-14.58.38:181][910]Cmd: SELECT NONE
+[2017.04.02-14.58.40:956][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_12)
+[2017.04.02-14.58.42:066][355]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_80)
+[2017.04.02-14.58.42:656][420]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_83)
+[2017.04.02-14.58.43:339][497]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_85)
+[2017.04.02-14.58.43:939][564]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_115)
+[2017.04.02-14.58.44:887][672]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_24)
+[2017.04.02-14.58.45:663][759]Cmd: TRANSACTION UNDO
+[2017.04.02-14.58.45:663][759]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-14.58.46:572][858]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_408)
+[2017.04.02-14.58.51:791][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_404)
+[2017.04.02-14.58.52:687][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_25)
+[2017.04.02-14.58.53:165][572]Cmd: DELETE
+[2017.04.02-14.58.53:165][572]Cmd: ACTOR DELETE
+[2017.04.02-14.58.53:166][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.53:167][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.53:168][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.53:168][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.53:169][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.53:169][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.53:170][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.53:171][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.53:171][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.53:172][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.53:181][572]LogEditorActor: Deleted 10 Actors (0.016 secs)
+[2017.04.02-14.58.53:663][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_404)
+[2017.04.02-14.58.53:919][654]Cmd: DELETE
+[2017.04.02-14.58.53:919][654]Cmd: ACTOR DELETE
+[2017.04.02-14.58.53:920][654]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.53:930][654]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.04.02-14.58.54:397][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_405)
+[2017.04.02-14.58.54:678][739]Cmd: DELETE
+[2017.04.02-14.58.54:678][739]Cmd: ACTOR DELETE
+[2017.04.02-14.58.54:679][739]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.54:691][739]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.04.02-14.58.55:352][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_406)
+[2017.04.02-14.58.55:694][854]Cmd: DELETE
+[2017.04.02-14.58.55:694][854]Cmd: ACTOR DELETE
+[2017.04.02-14.58.55:695][854]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.55:705][854]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.04.02-14.58.56:408][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_407)
+[2017.04.02-14.58.56:699][968]Cmd: DELETE
+[2017.04.02-14.58.56:699][968]Cmd: ACTOR DELETE
+[2017.04.02-14.58.56:700][968]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-14.58.56:709][968]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.04.02-14.58.59:201][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_85)
+[2017.04.02-14.59.14:807][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_15)
+[2017.04.02-14.59.25:546][242]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Tile_Concrete6_19)
+[2017.04.02-14.59.33:868][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_407)
+[2017.04.02-14.59.38:504][755]Cmd: SELECT NONE
+[2017.04.02-14.59.40:075][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_404)
+[2017.04.02-14.59.42:057][169]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.04.02-14.59.43:150][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_405)
+[2017.04.02-14.59.48:445][908]Cmd: SELECT NONE
+[2017.04.02-14.59.49:279][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_33)
+[2017.04.02-14.59.53:549][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_15)
+[2017.04.02-15.00.02:717][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_406)
+[2017.04.02-15.00.08:793][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_15)
+[2017.04.02-15.00.13:658][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_407)
+[2017.04.02-15.00.17:266][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_15)
+[2017.04.02-15.00.21:766][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_15)
+[2017.04.02-15.00.22:105][750]Cmd: DELETE
+[2017.04.02-15.00.22:105][750]Cmd: ACTOR DELETE
+[2017.04.02-15.00.22:106][750]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-15.00.22:116][750]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.04.02-15.00.24:304][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_16)
+[2017.04.02-15.00.29:070][564]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Tile_Concrete6_44)
+[2017.04.02-15.00.32:489][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_44)
+[2017.04.02-15.00.32:787][963]Cmd: DELETE
+[2017.04.02-15.00.32:787][963]Cmd: ACTOR DELETE
+[2017.04.02-15.00.32:788][963]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-15.00.32:797][963]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.04.02-15.00.56:546][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_204)
+[2017.04.02-15.01.14:832][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_219)
+[2017.04.02-15.03.18:925][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/8Stage" FILE="../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Saved/Autosaves/Game/Maps/8Stage_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.04.02-15.03.19:161][124]LogSavePackage: Save=228.03ms
+[2017.04.02-15.03.19:161][124]LogSavePackage: Moving '../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Saved/8Stage_Auto1B2DE45B347A280C92DE366A88F932532.tmp' to '../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Saved/Autosaves/Game/Maps/8Stage_Auto1.umap'
+[2017.04.02-15.03.19:162][124]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Saved/Autosaves/Game/Maps/8Stage_Auto1.umap
+[2017.04.02-15.03.19:167][124]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/8Stage' took 0.256
+[2017.04.02-15.03.19:167][124]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.256
+[2017.04.02-15.03.26:029][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_373)
+[2017.04.02-15.03.35:660][876]Cmd: SELECT NONE
+[2017.04.02-15.03.36:673][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_415)
+[2017.04.02-15.03.41:614][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_331)
+[2017.04.02-15.04.00:764][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_332)
+[2017.04.02-15.04.06:870][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_332)
+[2017.04.02-15.04.11:059][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_333)
+[2017.04.02-15.04.14:661][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_418)
+[2017.04.02-15.04.30:668][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_123)
+[2017.04.02-15.04.31:165][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_124)
+[2017.04.02-15.04.37:202][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_420)
+[2017.04.02-15.04.42:454][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_421)
+[2017.04.02-15.04.52:744][601]Cmd: SELECT NONE
+[2017.04.02-15.05.01:246][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_19)
+[2017.04.02-15.05.03:544][877]Cmd: TRANSACTION UNDO
+[2017.04.02-15.05.03:544][877]LogEditorTransaction: Undo 액터 이동
+[2017.04.02-15.05.04:379][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_16)
+[2017.04.02-15.05.04:889][ 27]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_415)
+[2017.04.02-15.05.06:022][157]Cmd: SELECT NONE
+[2017.04.02-15.05.07:704][346]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_16)
+[2017.04.02-15.05.08:355][413]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_17)
+[2017.04.02-15.05.09:036][490]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_18)
+[2017.04.02-15.05.10:187][608]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_19)
+[2017.04.02-15.05.11:988][791]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_20)
+[2017.04.02-15.05.12:579][846]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_21)
+[2017.04.02-15.05.13:161][911]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_22)
+[2017.04.02-15.05.13:688][969]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_23)
+[2017.04.02-15.05.14:246][ 31]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_24)
+[2017.04.02-15.05.29:849][859]Cmd: SELECT NONE
+[2017.04.02-15.05.32:424][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_19)
+[2017.04.02-15.05.36:711][652]Cmd: SELECT NONE
+[2017.04.02-15.05.37:128][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_419)
+[2017.04.02-15.05.40:672][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_408)
+[2017.04.02-15.05.41:683][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_408)
+[2017.04.02-15.05.48:068][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_408)
+[2017.04.02-15.06.01:684][549]Cmd: SELECT NONE
+[2017.04.02-15.06.08:865][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_409)
+[2017.04.02-15.06.11:785][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_409)
+[2017.04.02-15.06.19:476][622]Cmd: SELECT NONE
+[2017.04.02-15.06.32:655][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_35)
+[2017.04.02-15.06.36:133][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_38)
+[2017.04.02-15.06.38:569][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_35)
+[2017.04.02-15.06.39:257][916]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_36)
+[2017.04.02-15.06.39:878][986]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_37)
+[2017.04.02-15.06.41:151][120]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_38)
+[2017.04.02-15.06.41:778][174]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_39)
+[2017.04.02-15.06.43:147][314]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_40)
+[2017.04.02-15.06.43:683][359]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_41)
+[2017.04.02-15.06.44:297][418]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_42)
+[2017.04.02-15.06.44:870][482]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_43)
+[2017.04.02-15.07.04:763][767]Cmd: SELECT NONE
+[2017.04.02-15.07.05:313][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_39)
+[2017.04.02-15.07.12:049][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_5)
+[2017.04.02-15.07.20:124][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_408)
+[2017.04.02-15.07.30:131][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_5)
+[2017.04.02-15.07.35:349][342]Cmd: TRANSACTION UNDO
+[2017.04.02-15.07.35:349][342]LogEditorTransaction: Undo 액터 스케일을 설정합니다.
+[2017.04.02-15.07.45:838][577]Cmd: SELECT NONE
+[2017.04.02-15.07.49:856][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_25)
+[2017.04.02-15.07.57:790][950]Cmd: SELECT NONE
+[2017.04.02-15.08.07:674][ 90]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2017.04.02-15.08.46:750][736]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.04.02-15.08.47:850][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_37)
+[2017.04.02-15.08.50:609][180]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_7)
+[2017.04.02-15.08.52:269][371]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2017.04.02-15.08.55:197][717]LogEditorViewport: Clicking on Actor (CTRL LMB): PostProcessVolume (PostProcessVolume)
+[2017.04.02-15.08.59:204][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_5)
+[2017.04.02-15.09.00:548][319]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_6)
+[2017.04.02-15.09.01:186][391]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_7)
+[2017.04.02-15.09.02:371][527]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_8)
+[2017.04.02-15.09.03:336][637]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_9)
+[2017.04.02-15.09.03:875][697]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_10)
+[2017.04.02-15.09.04:349][749]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_11)
+[2017.04.02-15.09.04:795][798]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_12)
+[2017.04.02-15.09.07:514][ 98]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_13)
+[2017.04.02-15.09.08:283][178]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_14)
+[2017.04.02-15.09.08:717][225]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_80)
+[2017.04.02-15.09.09:172][274]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_83)
+[2017.04.02-15.09.09:755][339]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_85)
+[2017.04.02-15.09.10:236][392]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_115)
+[2017.04.02-15.09.11:256][506]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_24)
+[2017.04.02-15.09.12:394][636]Cmd: TRANSACTION UNDO
+[2017.04.02-15.09.12:394][636]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-15.09.13:910][807]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_408)
+[2017.04.02-15.09.18:451][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_409)
+[2017.04.02-15.09.19:253][391]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_407)
+[2017.04.02-15.09.19:960][471]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.04.02-15.09.20:556][539]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_406)
+[2017.04.02-15.09.21:083][599]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_405)
+[2017.04.02-15.09.21:722][673]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_404)
+[2017.04.02-15.09.22:743][793]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_34)
+[2017.04.02-15.09.24:300][959]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_33)
+[2017.04.02-15.09.24:702][995]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_32)
+[2017.04.02-15.09.25:155][ 42]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_31)
+[2017.04.02-15.09.27:288][279]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_30)
+[2017.04.02-15.09.28:133][373]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_29)
+[2017.04.02-15.09.28:915][464]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_28)
+[2017.04.02-15.09.29:521][534]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_27)
+[2017.04.02-15.09.30:092][599]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_26)
+[2017.04.02-15.09.30:645][663]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_25)
+[2017.04.02-15.09.34:733][121]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_10)
+[2017.04.02-15.09.36:195][286]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_20)
+[2017.04.02-15.09.39:335][648]Cmd: TRANSACTION UNDO
+[2017.04.02-15.09.39:335][648]LogEditorTransaction: Undo 표면 선택
+[2017.04.02-15.09.39:989][721]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_40)
+[2017.04.02-15.10.19:565][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_39)
+[2017.04.02-15.10.25:347][930]Cmd: TRANSACTION UNDO
+[2017.04.02-15.10.25:347][930]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-15.10.31:124][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_38)
+[2017.04.02-15.10.36:174][178]Cmd: TRANSACTION UNDO
+[2017.04.02-15.10.36:174][178]LogEditorTransaction: Undo 액터 클릭
+[2017.04.02-15.10.39:847][607]Cmd: SELECT NONE
+[2017.04.02-15.10.45:253][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_15)
+[2017.04.02-15.10.51:010][922]Cmd: SELECT NONE
+[2017.04.02-15.10.52:352][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_437)
+[2017.04.02-15.10.53:401][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_470)
+[2017.04.02-15.11.06:225][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_437)
+[2017.04.02-15.11.08:017][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_470)
+[2017.04.02-15.11.12:010][412]Cmd: SELECT NONE
+[2017.04.02-15.11.12:644][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_437)
+[2017.04.02-15.11.24:334][868]Cmd: SELECT NONE
+[2017.04.02-15.11.29:181][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_437)
+[2017.04.02-15.11.30:849][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_470)
+[2017.04.02-15.11.34:239][  1]Cmd: SELECT NONE
+[2017.04.02-15.11.35:407][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_470)
+[2017.04.02-15.11.49:319][794]Cmd: SELECT NONE
+[2017.04.02-15.11.50:070][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_437)
+[2017.04.02-15.11.55:572][519]Cmd: SELECT NONE
+[2017.04.02-15.11.59:992][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_45)
+[2017.04.02-15.12.01:851][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_5)
+[2017.04.02-15.12.07:338][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_437)
+[2017.04.02-15.12.08:092][946]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tile_Concrete6_470)
+[2017.04.02-15.12.12:676][474]Cmd: SELECT NONE
+[2017.04.02-15.12.17:501][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_44)
+[2017.04.02-15.12.25:252][950]Cmd: SELECT NONE
+[2017.04.02-15.12.25:802][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_422)
+[2017.04.02-15.12.30:628][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_26)
+[2017.04.02-15.12.31:913][706]Cmd: SELECT NONE
+[2017.04.02-15.12.55:080][329]Cmd: SELECT NONE
+[2017.04.02-15.13.28:702][312]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.02-15.13.30:747][534]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.02-15.13.31:230][591]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.02-15.13.33:606][874]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.02-15.13.34:274][953]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.02-15.13.35:931][122]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.02-15.13.36:565][196]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.02-15.13.36:864][228]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.02-15.13.37:440][296]LogTemp: Repeting last play command: 새 에디터 창 (PIE)
+[2017.04.02-15.13.37:457][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/8Stage.8Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage' with GeneratedClass '/Game/Maps/8Stage.8Stage_C' with ClassGeneratedBy '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage'
+[2017.04.02-15.13.37:458][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.02-15.13.37:458][296]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.02-15.13.37:460][296]LogOnline:Warning: STEAM: Steam API disabled!
+[2017.04.02-15.13.37:460][296]LogOnline:Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2017.04.02-15.13.37:474][296]PIE: New page: PIE 세션: 8Stage (2017. 4. 3. 오전 9:13:37)
+[2017.04.02-15.13.37:475][296]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_8Stage
+[2017.04.02-15.13.37:497][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021675s)
+[2017.04.02-15.13.37:497][296]LogAIModule: Creating AISystem for world 8Stage
+[2017.04.02-15.13.37:497][296]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2017.04.02-15.13.37:498][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/8Stage.8Stage to /Game/Maps/UEDPIE_1_8Stage.8Stage (0.023126s)
+[2017.04.02-15.13.37:518][296]LogInit: XAudio2 using '헤드폰(2- High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.02-15.13.37:530][296]LogInit: FAudioDevice initialized.
+[2017.04.02-15.13.37:554][296]LogStats:Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//OnlineAsyncTaskThreadNull DefaultInstance///Thread_6c0_0///####STATCAT_Advanced#### old //STATGROUP_Threads//OnlineAsyncTaskThreadNull DefaultInstance///Thread_724_0///####STATCAT_Advanced####
+[2017.04.02-15.13.37:581][296]LogLoad: Game class is 'GameplayGM_C'
+[2017.04.02-15.13.37:589][296]LogWorld: Bringing World /Game/Maps/UEDPIE_1_8Stage.8Stage up for play (max tick rate 0) at 2017.04.03-00.13.37
+[2017.04.02-15.13.37:589][296]LogWorld: Bringing up level for play took: 0.006706
+[2017.04.02-15.13.37:671][296]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.04.02-15.13.37:672][296]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.04.02-15.13.37:673][296]LogInit: WinSock: I am DESKTOP-CEH7678 (1.243.201.124:0)
+[2017.04.02-15.13.37:673][296]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.02-15.13.37:674][296]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2017.04.02-15.13.37:674][296]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.02-15.13.37:674][296]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.02-15.13.37:674][296]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.02-15.13.37:690][296]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.02-15.13.37:694][296]PIE: 정보 /Game/Maps/UEDPIE_1_8Stage 에 대한 에디터에서 플레이 시작 시간: -0.36
+[2017.04.02-15.13.37:696][296]PIE: New page: PIE 세션: 8Stage (2017. 4. 3. 오전 9:13:37)
+[2017.04.02-15.13.37:735][296]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.04.02-15.13.37:735][296]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.04.02-15.13.37:736][296]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.02-15.13.37:736][296]LogNet: Game client on port 7777, rate 10000
+[2017.04.02-15.13.37:736][296]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: steamproject, ProjectVersion: 1.0.0.0, EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2485338978
+[2017.04.02-15.13.37:737][296]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2017.04.02-15.13.37:740][296]PIE: 정보 /Game/Maps/MainMenu 에 대한 에디터에서 플레이 시작 시간: -0.314
+[2017.04.02-15.13.37:747][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/8Stage.8Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage' with GeneratedClass '/Game/Maps/8Stage.8Stage_C' with ClassGeneratedBy '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage'
+[2017.04.02-15.13.37:747][296]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 147125129244010244063127241244140098007196135196178249179170
+[2017.04.02-15.13.37:781][296]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 147125129244010244063127241244140098007196135196178249179170
+[2017.04.02-15.13.37:820][296]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:386976).
+[2017.04.02-15.13.37:883][297]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63791
+[2017.04.02-15.13.37:883][297]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.02-15.13.37:883][297]LogNet: NotifyAcceptedConnection: Name: 8Stage, TimeStamp: 04/03/17 00:13:37, [UNetConnection] RemoteAddr: 127.0.0.1:63791, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.02-15.13.37:883][297]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63791, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.02-15.13.37:929][299]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_8Stage.8Stage: Accepted
+[2017.04.02-15.13.37:929][299]LogNet: Remote platform little endian=1
+[2017.04.02-15.13.37:929][299]LogNet: This platform little endian=1
+[2017.04.02-15.13.37:951][300]LogNet: Login request: /Game/Maps/MainMenu?Name=DESKTOP-CEH7678-25B16A0F4B02D8CDA147F69DF0637C52 userId: DESKTOP-CEH7678-25B16A0F4B02D8CDA147F69DF0637C52
+[2017.04.02-15.13.37:951][300]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_8Stage, Game: /Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C)
+[2017.04.02-15.13.37:951][300]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_8Stage?game=/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C
+[2017.04.02-15.13.37:966][300]Cmd: MEM
+[2017.04.02-15.13.37:976][300]LogMemory: Platform Memory Stats for Windows
+[2017.04.02-15.13.37:976][300]LogMemory: Process Physical Memory: 1292.92 MB used, 1292.92 MB peak
+[2017.04.02-15.13.37:976][300]LogMemory: Process Virtual Memory: 2082.89 MB used, 2082.90 MB peak
+[2017.04.02-15.13.37:976][300]LogMemory: Physical Memory: 4511.91 MB used,  11805.68 MB free, 16317.59 MB total
+[2017.04.02-15.13.37:976][300]LogMemory: Virtual Memory: 2985.04 MB used,  11805.68 MB free, 134217728.00 MB total
+[2017.04.02-15.13.37:976][300]LogMemory: 
+[2017.04.02-15.13.37:976][300]Allocator Stats for TBB: (not implemented)
+[2017.04.02-15.13.37:997][300]LogAIModule: Creating AISystem for world 8Stage
+[2017.04.02-15.13.38:005][300]LogWorld: Bringing World /Game/Maps/UEDPIE_2_8Stage.8Stage up for play (max tick rate 0) at 2017.04.03-00.13.38
+[2017.04.02-15.13.38:005][300]LogWorld: Bringing up level for play took: 0.007083
+[2017.04.02-15.13.38:006][300]LogLoad: Took 0.054377 seconds to LoadMap(/Game/Maps/UEDPIE_1_8Stage)
+[2017.04.02-15.13.38:032][301]LogNet: Client netspeed is 10000
+[2017.04.02-15.13.38:032][301]LogNet: Join request: /Game/Maps/MainMenu?Name=DESKTOP-CEH7678-25B16A0F4B02D8CDA147F69DF0637C52?SplitscreenCount=1
+[2017.04.02-15.13.38:032][301]LogOnline:Warning: NULL: No game present to join for session (Game)
+[2017.04.02-15.13.38:035][301]LogNet: Join succeeded: DESKTOP-CEH7678-25B1
+[2017.04.02-15.13.38:108][306]LogOnline:Warning: NULL: No game present to join for session (Game)
+[2017.04.02-15.13.38:179][313]LogOnline:Warning: NULL: No game present to join for session (Game)
+[2017.04.02-15.14.46:264][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/8Stage.8Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage' with GeneratedClass '/Game/Maps/8Stage.8Stage_C' with ClassGeneratedBy '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage'
+[2017.04.02-15.14.46:313][399]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.02-15.14.46:314][399]LogOnline:Warning: NULL: Can't destroy a null online session (Game)
+[2017.04.02-15.14.46:315][399]LogOnline:Warning: NULL: No game present to leave for session (Game)
+[2017.04.02-15.14.46:368][399]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.02-15.14.46:368][399]LogPlayLevel:Display: Shutting down PIE online subsystems
+[2017.04.02-15.14.46:376][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/8Stage.8Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage' with GeneratedClass '/Game/Maps/8Stage.8Stage_C' with ClassGeneratedBy '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage'
+[2017.04.02-15.14.46:387][399]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63791, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2017.04.02-15.14.46:387][399]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63791, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.04.02-15.14.46
+[2017.04.02-15.14.46:387][399]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63791, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2017.04.02-15.14.46:387][399]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2017.04.02-15.14.46:387][399]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.04.02-15.14.46
+[2017.04.02-15.14.46:387][399]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2017.04.02-15.14.46:391][399]LogExit: GameNetDriver None shut down
+[2017.04.02-15.14.46:391][399]LogExit: GameNetDriver None shut down
+[2017.04.02-15.14.46:427][400]LogPlayLevel:Display: Destroying online subsystem :Context_4
+[2017.04.02-15.14.46:427][400]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.02-15.14.46:427][400]LogPlayLevel:Display: Destroying online subsystem :Context_3
+[2017.04.02-15.14.46:427][400]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.02-15.14.59:800][984]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2017.04.02-15.15.00:853][109]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.02-15.15.02:127][260]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.02-15.15.05:882][662]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.02-15.15.07:610][868]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.02-15.15.08:686][996]LogTemp: Repeting last play command: 새 에디터 창 (PIE)
+[2017.04.02-15.15.08:702][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/8Stage.8Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage' with GeneratedClass '/Game/Maps/8Stage.8Stage_C' with ClassGeneratedBy '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage'
+[2017.04.02-15.15.08:702][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.02-15.15.08:704][996]PIE: New page: PIE 세션: 8Stage (2017. 4. 3. 오전 9:15:08)
+[2017.04.02-15.15.08:705][996]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_8Stage
+[2017.04.02-15.15.08:724][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019258s)
+[2017.04.02-15.15.08:724][996]LogAIModule: Creating AISystem for world 8Stage
+[2017.04.02-15.15.08:725][996]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2017.04.02-15.15.08:725][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/8Stage.8Stage to /Game/Maps/UEDPIE_1_8Stage.8Stage (0.020240s)
+[2017.04.02-15.15.08:741][996]LogInit: XAudio2 using '헤드폰(2- High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.02-15.15.08:750][996]LogInit: FAudioDevice initialized.
+[2017.04.02-15.15.08:792][996]LogLoad: Game class is 'GameplayGM_C'
+[2017.04.02-15.15.08:799][996]LogWorld: Bringing World /Game/Maps/UEDPIE_1_8Stage.8Stage up for play (max tick rate 0) at 2017.04.03-00.15.08
+[2017.04.02-15.15.08:799][996]LogWorld: Bringing up level for play took: 0.006657
+[2017.04.02-15.15.08:811][996]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.04.02-15.15.08:812][996]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.02-15.15.08:812][996]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2017.04.02-15.15.08:812][996]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.02-15.15.08:812][996]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.02-15.15.08:812][996]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.02-15.15.08:815][996]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.02-15.15.08:818][996]PIE: 정보 /Game/Maps/UEDPIE_1_8Stage 에 대한 에디터에서 플레이 시작 시간: 0.764
+[2017.04.02-15.15.08:821][996]PIE: New page: PIE 세션: 8Stage (2017. 4. 3. 오전 9:15:08)
+[2017.04.02-15.15.08:860][996]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.04.02-15.15.08:861][996]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.04.02-15.15.08:861][996]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.02-15.15.08:861][996]LogNet: Game client on port 7777, rate 10000
+[2017.04.02-15.15.08:861][996]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2017.04.02-15.15.08:865][996]PIE: 정보 /Game/Maps/MainMenu 에 대한 에디터에서 플레이 시작 시간: 0.811
+[2017.04.02-15.15.08:871][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/8Stage.8Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage' with GeneratedClass '/Game/Maps/8Stage.8Stage_C' with ClassGeneratedBy '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage'
+[2017.04.02-15.15.08:872][996]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 235144237252101254116188229165107066212170154243209169064086
+[2017.04.02-15.15.08:872][996]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 235144237252101254116188229165107066212170154243209169064086
+[2017.04.02-15.15.08:963][997]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64614
+[2017.04.02-15.15.08:963][997]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.02-15.15.08:963][997]LogNet: NotifyAcceptedConnection: Name: 8Stage, TimeStamp: 04/03/17 00:15:08, [UNetConnection] RemoteAddr: 127.0.0.1:64614, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.02-15.15.08:963][997]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64614, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.02-15.15.08:983][999]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_8Stage.8Stage: Accepted
+[2017.04.02-15.15.08:983][999]LogNet: Remote platform little endian=1
+[2017.04.02-15.15.08:983][999]LogNet: This platform little endian=1
+[2017.04.02-15.15.09:002][  0]LogNet: Login request: /Game/Maps/MainMenu?Name=DESKTOP-CEH7678-F87C681C4E8C3CE4B2A0EA83CAE480B0 userId: DESKTOP-CEH7678-F87C681C4E8C3CE4B2A0EA83CAE480B0
+[2017.04.02-15.15.09:003][  0]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_8Stage, Game: /Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C)
+[2017.04.02-15.15.09:003][  0]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_8Stage?game=/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C
+[2017.04.02-15.15.09:012][  0]Cmd: MEM
+[2017.04.02-15.15.09:022][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.02-15.15.09:022][  0]LogMemory: Process Physical Memory: 1281.53 MB used, 1332.03 MB peak
+[2017.04.02-15.15.09:022][  0]LogMemory: Process Virtual Memory: 1890.96 MB used, 2094.19 MB peak
+[2017.04.02-15.15.09:022][  0]LogMemory: Physical Memory: 4508.91 MB used,  11808.68 MB free, 16317.59 MB total
+[2017.04.02-15.15.09:022][  0]LogMemory: Virtual Memory: 2875.79 MB used,  11808.68 MB free, 134217728.00 MB total
+[2017.04.02-15.15.09:022][  0]LogMemory: 
+[2017.04.02-15.15.09:022][  0]Allocator Stats for TBB: (not implemented)
+[2017.04.02-15.15.09:042][  0]LogAIModule: Creating AISystem for world 8Stage
+[2017.04.02-15.15.09:050][  0]LogWorld: Bringing World /Game/Maps/UEDPIE_2_8Stage.8Stage up for play (max tick rate 0) at 2017.04.03-00.15.09
+[2017.04.02-15.15.09:050][  0]LogWorld: Bringing up level for play took: 0.006681
+[2017.04.02-15.15.09:050][  0]LogLoad: Took 0.047577 seconds to LoadMap(/Game/Maps/UEDPIE_1_8Stage)
+[2017.04.02-15.15.09:076][  1]LogNet: Client netspeed is 10000
+[2017.04.02-15.15.09:076][  1]LogNet: Join request: /Game/Maps/MainMenu?Name=DESKTOP-CEH7678-F87C681C4E8C3CE4B2A0EA83CAE480B0?SplitscreenCount=1
+[2017.04.02-15.15.09:077][  1]LogOnline:Warning: NULL: No game present to join for session (Game)
+[2017.04.02-15.15.09:077][  1]LogNet: Join succeeded: DESKTOP-CEH7678-F87C
+[2017.04.02-15.15.09:110][  4]LogOnline:Warning: NULL: No game present to join for session (Game)
+[2017.04.02-15.15.09:127][  6]LogOnline:Warning: NULL: No game present to join for session (Game)
+[2017.04.02-15.16.23:223][761]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/8Stage.8Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage' with GeneratedClass '/Game/Maps/8Stage.8Stage_C' with ClassGeneratedBy '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage'
+[2017.04.02-15.16.23:270][761]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.02-15.16.23:271][761]LogOnline:Warning: NULL: Can't destroy a null online session (Game)
+[2017.04.02-15.16.23:271][761]LogOnline:Warning: NULL: No game present to leave for session (Game)
+[2017.04.02-15.16.23:319][761]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.02-15.16.23:319][761]LogPlayLevel:Display: Shutting down PIE online subsystems
+[2017.04.02-15.16.23:328][761]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/8Stage.8Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage' with GeneratedClass '/Game/Maps/8Stage.8Stage_C' with ClassGeneratedBy '/Game/Maps/8Stage.8Stage:PersistentLevel.8Stage'
+[2017.04.02-15.16.23:337][761]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64614, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2017.04.02-15.16.23:337][761]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64614, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 4, Time: 2017.04.02-15.16.23
+[2017.04.02-15.16.23:337][761]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64614, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2017.04.02-15.16.23:337][761]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2017.04.02-15.16.23:337][761]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 4, Time: 2017.04.02-15.16.23
+[2017.04.02-15.16.23:337][761]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2017.04.02-15.16.23:342][761]LogExit: GameNetDriver None shut down
+[2017.04.02-15.16.23:342][761]LogExit: GameNetDriver None shut down
+[2017.04.02-15.16.23:379][762]LogPlayLevel:Display: Destroying online subsystem :Context_6
+[2017.04.02-15.16.23:379][762]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.02-15.16.23:379][762]LogPlayLevel:Display: Destroying online subsystem :Context_5
+[2017.04.02-15.16.23:379][762]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.02-15.16.58:150][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/8Stage" FILE="../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Content/Maps/8Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.02-15.16.58:420][667]LogSavePackage: Save=255.00ms
+[2017.04.02-15.16.58:420][667]LogSavePackage: Moving '../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Saved/8Stage50F33A94458D14D46476798CC535D5D2.tmp' to '../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Content/Maps/8Stage.umap'
+[2017.04.02-15.16.58:424][667]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Content/Maps/8Stage.umap
+[2017.04.02-15.16.58:456][667]LogFileHelpers: Saving map '8Stage' took 0.377
+[2017.04.02-15.17.05:832][399]LogAIModule: Creating AISystem for world 6Stage-6Puzzle
+[2017.04.02-15.17.05:873][399]Cmd: MAP LOAD FILE="../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Content/Maps/6Stage-6Puzzle.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.02-15.17.05:873][399]LightingResults: New page: 라이팅 빌드
+[2017.04.02-15.17.05:874][399]LoadErrors: New page: 맵 로드중: 6Stage-6Puzzle.umap
+[2017.04.02-15.17.05:876][399]MapCheck: New page: 맵 체크
+[2017.04.02-15.17.05:876][399]LightingResults: New page: 라이팅 빌드
+[2017.04.02-15.17.06:066][399]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.02-15.17.06:098][399]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.02-15.17.06:173][399]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 74.636ms.
+[2017.04.02-15.17.06:173][399]LogFileHelpers: Loading map '6Stage-6Puzzle' took 0.302
+[2017.04.02-15.17.13:108][ 18]LogAIModule: Creating AISystem for world 6Stage-5Puzzle
+[2017.04.02-15.17.13:156][ 18]Cmd: MAP LOAD FILE="../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Content/Maps/6Stage-5Puzzle.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.02-15.17.13:156][ 18]LightingResults: New page: 라이팅 빌드
+[2017.04.02-15.17.13:157][ 18]LoadErrors: New page: 맵 로드중: 6Stage-5Puzzle.umap
+[2017.04.02-15.17.13:161][ 18]MapCheck: New page: 맵 체크
+[2017.04.02-15.17.13:161][ 18]LightingResults: New page: 라이팅 빌드
+[2017.04.02-15.17.13:403][ 18]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.02-15.17.13:435][ 18]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.02-15.17.13:513][ 18]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 77.577ms.
+[2017.04.02-15.17.13:513][ 18]LogFileHelpers: Loading map '6Stage-5Puzzle' took 0.358
+[2017.04.02-15.17.19:009][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.17.21:242][891]Cmd: EDIT COPY
+[2017.04.02-15.17.23:648][169]LogAIModule: Creating AISystem for world 8Stage
+[2017.04.02-15.17.23:669][169]Cmd: MAP LOAD FILE="../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Content/Maps/8Stage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.02-15.17.23:669][169]LightingResults: New page: 라이팅 빌드
+[2017.04.02-15.17.23:670][169]LoadErrors: New page: 맵 로드중: 8Stage.umap
+[2017.04.02-15.17.23:676][169]MapCheck: New page: 맵 체크
+[2017.04.02-15.17.23:676][169]LightingResults: New page: 라이팅 빌드
+[2017.04.02-15.17.23:889][169]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.02-15.17.23:921][169]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.02-15.17.23:998][169]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 77.501ms.
+[2017.04.02-15.17.23:999][169]LogFileHelpers: Loading map '8Stage' took 0.330
+[2017.04.02-15.17.25:215][308]Cmd: EDIT PASTE
+[2017.04.02-15.18.40:114][ 12]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Engine/BasicShapes/Cube.Cube] ConvexElem[0] invalid
+[2017.04.02-15.18.52:153][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.18.55:757][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.19.01:858][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.19.05:043][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.19.08:804][324]Cmd: TRANSACTION UNDO
+[2017.04.02-15.19.08:804][324]LogEditorTransaction: Undo 액터 스케일을 설정합니다.
+[2017.04.02-15.19.16:778][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.19.17:551][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.19.19:049][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.19.19:819][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.19.21:308][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.19.23:089][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.19.33:074][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.19.36:864][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.19.38:711][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_182)
+[2017.04.02-15.19.39:406][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.19.43:914][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.19.45:306][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.19.47:200][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.19.53:472][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.20.04:145][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.20.14:268][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.20.33:843][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.20.36:552][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.20.41:004][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.20.43:823][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.20.44:384][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.20.48:440][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.20.53:963][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.21.06:669][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.21.08:922][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.21.12:237][755]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:241][755]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:252][756]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:255][756]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:260][757]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:263][757]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:268][758]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:271][758]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:276][759]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:280][759]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:285][760]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:289][760]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:294][761]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:297][761]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:301][762]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:304][762]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:310][763]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:313][763]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:318][764]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:323][764]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:328][765]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:331][765]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:336][766]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:340][766]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:345][767]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:348][767]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:353][768]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:357][768]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:361][769]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:364][769]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:370][770]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:373][770]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:378][771]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:381][771]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:387][772]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:390][772]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:396][773]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:398][773]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:403][774]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:407][774]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:412][775]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:415][775]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:420][776]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:423][776]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:429][777]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:432][777]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:437][778]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:440][778]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:445][779]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:448][779]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:453][780]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:457][780]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:461][781]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:464][781]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:470][782]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:474][782]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:478][783]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:481][783]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:486][784]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:490][784]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:495][785]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:497][785]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:503][786]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:506][786]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:512][787]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:515][787]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:520][788]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:523][788]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:528][789]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:532][789]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:537][790]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:540][790]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:545][791]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:548][791]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:554][792]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:557][792]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:562][793]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:565][793]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:570][794]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:574][794]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:578][795]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:581][795]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:587][796]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:590][796]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:595][797]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:598][797]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:603][798]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:606][798]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:612][799]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:615][799]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:620][800]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:623][800]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:628][801]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:631][801]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:637][802]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:640][802]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:645][803]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:648][803]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:653][804]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:657][804]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:662][805]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:665][805]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:670][806]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:674][806]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:678][807]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:681][807]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:687][808]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:690][808]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:695][809]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:697][809]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:703][810]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:706][810]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:712][811]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:715][811]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:720][812]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:723][812]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:729][813]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:732][813]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:737][814]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:740][814]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:745][815]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:748][815]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:754][816]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:757][816]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:762][817]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:765][817]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:770][818]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:774][818]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:778][819]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:781][819]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:787][820]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:790][820]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:795][821]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:798][821]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:803][822]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:807][822]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:812][823]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:815][823]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:820][824]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:823][824]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:828][825]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:831][825]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:837][826]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:840][826]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:845][827]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:849][827]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:854][828]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:858][828]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:863][829]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:866][829]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:871][830]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:874][830]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:879][831]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:882][831]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:888][832]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:891][832]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:895][833]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:898][833]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:904][834]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:908][834]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:913][835]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:916][835]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:921][836]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:924][836]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:930][837]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:933][837]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:938][838]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:941][838]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:946][839]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:949][839]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:954][840]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:958][840]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:962][841]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:965][841]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:971][842]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:974][842]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:979][843]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:982][843]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:991][844]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:993][844]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:996][845]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.12:999][845]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.13:004][846]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.13:008][846]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.13:013][847]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.13:015][847]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: ""{DropPath}" 속으로 이동".
+[2017.04.02-15.21.19:626][639]EditorErrors: New page: 액터 붙임
+[2017.04.02-15.21.22:733][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.21.23:143][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.04.02-15.21.25:890][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_63)
+[2017.04.02-15.21.27:806][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2017.04.02-15.21.30:753][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_63)
+[2017.04.02-15.21.35:042][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.21.38:201][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2017.04.02-15.21.43:181][397]EditorErrors: New page: 액터 붙임
+[2017.04.02-15.21.44:875][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_94)
+[2017.04.02-15.21.45:519][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_63)
+[2017.04.02-15.21.55:931][647]Cmd: TRANSACTION UNDO
+[2017.04.02-15.21.55:931][647]LogEditorTransaction: Undo 액터 회전
+[2017.04.02-15.21.56:929][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2017.04.02-15.21.57:729][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_63)
+[2017.04.02-15.21.57:802][845]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.04.02-15.21.58:495][921]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.04.02-15.21.58:944][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2017.04.02-15.22.09:678][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2017.04.02-15.22.14:018][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_63)
+[2017.04.02-15.22.15:464][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.04.02-15.22.18:575][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_96)
+[2017.04.02-15.22.20:145][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.04.02-15.22.22:236][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_96)
+[2017.04.02-15.22.23:781][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.04.02-15.22.25:816][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_96)
+[2017.04.02-15.22.30:484][623]Cmd: TRANSACTION UNDO
+[2017.04.02-15.22.30:484][623]LogEditorTransaction: Undo 액터 이동
+[2017.04.02-15.22.31:526][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.04.02-15.22.33:090][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_96)
+[2017.04.02-15.22.35:678][223]Cmd: SELECT NONE
+[2017.04.02-15.22.41:749][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_96)
+[2017.04.02-15.22.42:553][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.04.02-15.22.43:874][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_96)
+[2017.04.02-15.22.55:278][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.04.02-15.22.57:807][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_96)
+[2017.04.02-15.23.00:924][210]Cmd: SELECT NONE
+[2017.04.02-15.23.09:989][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_96)
+[2017.04.02-15.23.15:349][924]Cmd: TRANSACTION UNDO
+[2017.04.02-15.23.15:349][924]LogEditorTransaction: Undo 액터 스케일을 설정합니다.
+[2017.04.02-15.23.16:248][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.04.02-15.23.20:703][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_96)
+[2017.04.02-15.23.24:683][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.04.02-15.23.32:536][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.04.02-15.23.33:649][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2017.04.02-15.23.34:884][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.04.02-15.23.37:746][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_96)
+[2017.04.02-15.23.45:759][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.04.02-15.23.50:997][ 96]EditorErrors: New page: 액터 붙임
+[2017.04.02-15.23.53:875][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2017.04.02-15.24.15:205][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_95)
+[2017.04.02-15.24.17:125][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2017.04.02-15.24.19:164][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_95)
+[2017.04.02-15.24.22:621][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2017.04.02-15.24.23:229][885]Cmd: DELETE
+[2017.04.02-15.24.23:229][885]Cmd: ACTOR DELETE
+[2017.04.02-15.24.23:230][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.02-15.24.23:240][885]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.04.02-15.24.24:392][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.04.02-15.24.26:911][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_95)
+[2017.04.02-15.24.33:880][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2017.04.02-15.24.50:014][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_97)
+[2017.04.02-15.24.52:603][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2017.04.02-15.24.54:692][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_97)
+[2017.04.02-15.24.55:971][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2017.04.02-15.24.57:508][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_97)
+[2017.04.02-15.24.59:262][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2017.04.02-15.25.18:152][289]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Tile_Concrete6_98)
+[2017.04.02-15.25.20:122][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2017.04.02-15.25.20:968][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_97)
+[2017.04.02-15.25.25:310][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2017.04.02-15.25.29:621][612]Cmd: TRANSACTION UNDO
+[2017.04.02-15.25.29:621][612]LogEditorTransaction: Undo 액터 이동
+[2017.04.02-15.25.33:870][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_96)
+[2017.04.02-15.25.37:343][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_95)
+[2017.04.02-15.25.39:592][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2017.04.02-15.25.41:636][ 18]EditorErrors: New page: 액터 붙임
+[2017.04.02-15.25.43:899][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_97)
+[2017.04.02-15.25.46:096][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2017.04.02-15.25.47:834][733]EditorErrors: New page: 액터 붙임
+[2017.04.02-15.25.49:243][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_98)
+[2017.04.02-15.25.53:242][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_98)
+[2017.04.02-15.25.55:301][607]EditorErrors: New page: 액터 붙임
+[2017.04.02-15.25.57:563][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_99)
+[2017.04.02-15.25.59:199][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2017.04.02-15.26.01:660][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_99)
+[2017.04.02-15.26.05:434][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2017.04.02-15.26.07:089][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_99)
+[2017.04.02-15.26.08:335][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2017.04.02-15.26.12:877][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_99)
+[2017.04.02-15.26.14:115][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2017.04.02-15.26.15:996][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_99)
+[2017.04.02-15.26.17:651][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2017.04.02-15.26.18:889][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_99)
+[2017.04.02-15.26.20:425][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2017.04.02-15.26.29:770][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_99)
+[2017.04.02-15.26.34:834][192]EditorErrors: New page: 액터 붙임
+[2017.04.02-15.26.40:557][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile_Concrete6_100)
+[2017.04.02-15.26.44:297][297]EditorErrors: New page: 액터 붙임
+[2017.04.02-15.27.10:304][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2017.04.02-15.27.23:855][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/8Stage" FILE="../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Content/Maps/8Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.02-15.27.24:139][908]LogSavePackage: Save=263.11ms
+[2017.04.02-15.27.24:139][908]LogSavePackage: Moving '../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Saved/8Stage8B7320AE44FE94307785C0BEB0742A2B.tmp' to '../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Content/Maps/8Stage.umap'
+[2017.04.02-15.27.24:143][908]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Content/Maps/8Stage.umap
+[2017.04.02-15.27.24:187][908]LogFileHelpers: Saving map '8Stage' took 0.416
+[2017.04.02-15.27.25:463][ 24]Cmd: QUIT_EDITOR
+[2017.04.02-15.27.25:721][ 24]LogWindowsTextInputMethodSystem:Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.04.02-15.27.25:742][ 24]LogExit: Preparing to exit.
+[2017.04.02-15.27.26:540][ 24]LogDirectoryWatcher: A directory notification for 'C:/Users/didwo/Desktop/SteamProject 4.14ver/Content/' was aborted.
+[2017.04.02-15.27.26:582][ 24]LogExit: Editor shut down
+[2017.04.02-15.27.26:582][ 24]LogExit: Transaction tracking system shut down
+[2017.04.02-15.27.26:662][ 24]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.02-15.27.26:662][ 24]LogExit: Object subsystem successfully closed.
+[2017.04.02-15.27.26:675][ 24]LogD3D11RHI: Shutdown
+[2017.04.02-15.27.26:675][ 24]LogD3D11RHI: CleanupD3DDevice
+[2017.04.02-15.27.26:816][ 24]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.02-15.27.26:835][ 24]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.02-15.27.26:835][ 24]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1814F155-4559-18A0-1EC9-37A3E92AFE7B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=210d08ab4f06661c4505fbba33374265%7Cc7f191c0d9a84031b64cc0512b8918eb%7C3862047a-a45b-4c9b-bb32-809a4a43ccfa&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.02-15.27.26:849][ 24]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (244)
+[2017.04.02-15.27.26:849][ 24]LogModuleManager: Shutting down and abandoning module Voice (243)
+[2017.04.02-15.27.26:849][ 24]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (242)
+[2017.04.02-15.27.26:850][ 24]LogModuleManager: Shutting down and abandoning module CrashTracker (241)
+[2017.04.02-15.27.26:850][ 24]LogModuleManager: Shutting down and abandoning module SceneOutliner (240)
+[2017.04.02-15.27.26:850][ 24]LogModuleManager: Shutting down and abandoning module WidgetCarousel (239)
+[2017.04.02-15.27.26:850][ 24]LogModuleManager: Shutting down and abandoning module AddContentDialog (238)
+[2017.04.02-15.27.26:850][ 24]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.14/FeaturePacks/' was aborted.
+[2017.04.02-15.27.26:851][ 24]LogModuleManager: Shutting down and abandoning module GameplayTags (237)
+[2017.04.02-15.27.26:851][ 24]LogModuleManager: Shutting down and abandoning module EditorWidgets (236)
+[2017.04.02-15.27.26:851][ 24]LogModuleManager: Shutting down and abandoning module CollectionManager (235)
+[2017.04.02-15.27.26:851][ 24]LogDirectoryWatcher: A directory notification for 'C:/Users/didwo/Desktop/SteamProject 4.14ver/Content/Collections/' was aborted.
+[2017.04.02-15.27.26:851][ 24]LogDirectoryWatcher: A directory notification for 'C:/Users/didwo/Desktop/SteamProject 4.14ver/Content/Developers/Family/Collections/' was aborted.
+[2017.04.02-15.27.26:851][ 24]LogDirectoryWatcher: A directory notification for 'C:/Users/didwo/Desktop/SteamProject 4.14ver/Saved/Collections/' was aborted.
+[2017.04.02-15.27.26:851][ 24]LogModuleManager: Shutting down and abandoning module StatsViewer (234)
+[2017.04.02-15.27.26:851][ 24]LogModuleManager: Shutting down and abandoning module FoliageEdit (233)
+[2017.04.02-15.27.26:851][ 24]LogModuleManager: Shutting down and abandoning module LandscapeEditor (232)
+[2017.04.02-15.27.26:852][ 24]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (231)
+[2017.04.02-15.27.26:852][ 24]LogModuleManager: Shutting down and abandoning module ActorPickerMode (230)
+[2017.04.02-15.27.26:852][ 24]LogModuleManager: Shutting down and abandoning module GeometryMode (229)
+[2017.04.02-15.27.26:852][ 24]LogModuleManager: Shutting down and abandoning module TextureAlignMode (228)
+[2017.04.02-15.27.26:852][ 24]LogModuleManager: Shutting down and abandoning module BspMode (227)
+[2017.04.02-15.27.26:852][ 24]LogModuleManager: Shutting down and abandoning module HardwareSurvey (226)
+[2017.04.02-15.27.26:852][ 24]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (225)
+[2017.04.02-15.27.26:852][ 24]LogModuleManager: Shutting down and abandoning module AutomationWorker (224)
+[2017.04.02-15.27.26:852][ 24]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (223)
+[2017.04.02-15.27.26:852][ 24]LogModuleManager: Shutting down and abandoning module PlacementMode (222)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (221)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (220)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (219)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (218)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (217)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module Media (216)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (215)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (214)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module CharacterAI (213)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module SequenceRecorder (212)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module AudioCapture (211)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module SmartSnapping (210)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module SessionServices (209)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module ViewportSnapping (208)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module ViewportInteraction (207)
+[2017.04.02-15.27.26:853][ 24]LogModuleManager: Shutting down and abandoning module LogVisualizer (206)
+[2017.04.02-15.27.26:854][ 24]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (205)
+[2017.04.02-15.27.26:854][ 24]LogModuleManager: Shutting down and abandoning module IntroTutorials (204)
+[2017.04.02-15.27.26:855][ 24]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (203)
+[2017.04.02-15.27.26:855][ 24]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (202)
+[2017.04.02-15.27.26:855][ 24]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (201)
+[2017.04.02-15.27.26:855][ 24]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (200)
+[2017.04.02-15.27.27:604][ 24]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (199)
+[2017.04.02-15.27.27:604][ 24]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (198)
+[2017.04.02-15.27.27:604][ 24]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (197)
+[2017.04.02-15.27.27:604][ 24]LogModuleManager: Shutting down and abandoning module InputBindingEditor (196)
+[2017.04.02-15.27.27:604][ 24]LogModuleManager: Shutting down and abandoning module NiagaraEditor (195)
+[2017.04.02-15.27.27:605][ 24]LogModuleManager: Shutting down and abandoning module MergeActors (194)
+[2017.04.02-15.27.27:606][ 24]LogModuleManager: Shutting down and abandoning module SizeMap (193)
+[2017.04.02-15.27.27:606][ 24]LogModuleManager: Shutting down and abandoning module TreeMap (192)
+[2017.04.02-15.27.27:606][ 24]LogModuleManager: Shutting down and abandoning module ReferenceViewer (191)
+[2017.04.02-15.27.27:606][ 24]LogModuleManager: Shutting down and abandoning module LocalizationService (190)
+[2017.04.02-15.27.27:606][ 24]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (189)
+[2017.04.02-15.27.27:606][ 24]LogModuleManager: Shutting down and abandoning module HardwareTargeting (188)
+[2017.04.02-15.27.27:606][ 24]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (187)
+[2017.04.02-15.27.27:606][ 24]LogModuleManager: Shutting down and abandoning module UndoHistory (186)
+[2017.04.02-15.27.27:607][ 24]LogModuleManager: Shutting down and abandoning module UserFeedback (185)
+[2017.04.02-15.27.27:607][ 24]LogModuleManager: Shutting down and abandoning module XmlParser (184)
+[2017.04.02-15.27.27:607][ 24]LogModuleManager: Shutting down and abandoning module Blutility (183)
+[2017.04.02-15.27.27:607][ 24]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (182)
+[2017.04.02-15.27.27:607][ 24]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (181)
+[2017.04.02-15.27.27:607][ 24]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (180)
+[2017.04.02-15.27.27:607][ 24]LogModuleManager: Shutting down and abandoning module SettingsEditor (179)
+[2017.04.02-15.27.27:608][ 24]LogModuleManager: Shutting down and abandoning module ProjectLauncher (178)
+[2017.04.02-15.27.27:609][ 24]LogModuleManager: Shutting down and abandoning module SessionFrontend (177)
+[2017.04.02-15.27.27:609][ 24]LogModuleManager: Shutting down and abandoning module ProfilerClient (176)
+[2017.04.02-15.27.27:610][ 24]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (175)
+[2017.04.02-15.27.27:610][ 24]LogModuleManager: Shutting down and abandoning module DeviceManager (174)
+[2017.04.02-15.27.27:654][ 24]LogModuleManager: Shutting down and abandoning module AutomationController (173)
+[2017.04.02-15.27.27:654][ 24]LogModuleManager: Shutting down and abandoning module AutomationWindow (172)
+[2017.04.02-15.27.27:655][ 24]LogModuleManager: Shutting down and abandoning module Layers (171)
+[2017.04.02-15.27.27:656][ 24]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (170)
+[2017.04.02-15.27.27:657][ 24]LogModuleManager: Shutting down and abandoning module DetailCustomizations (169)
+[2017.04.02-15.27.27:657][ 24]LogModuleManager: Shutting down and abandoning module PackagesDialog (168)
+[2017.04.02-15.27.27:657][ 24]LogModuleManager: Shutting down and abandoning module AnimGraph (167)
+[2017.04.02-15.27.27:657][ 24]LogModuleManager: Shutting down and abandoning module Persona (166)
+[2017.04.02-15.27.27:657][ 24]LogModuleManager: Shutting down and abandoning module Kismet (165)
+[2017.04.02-15.27.27:660][ 24]LogModuleManager: Shutting down and abandoning module GraphEditor (164)
+[2017.04.02-15.27.27:662][ 24]LogModuleManager: Shutting down and abandoning module ClassViewer (163)
+[2017.04.02-15.27.27:663][ 24]LogModuleManager: Shutting down and abandoning module Toolbox (162)
+[2017.04.02-15.27.27:663][ 24]LogModuleManager: Shutting down and abandoning module ModuleUI (161)
+[2017.04.02-15.27.27:663][ 24]LogModuleManager: Shutting down and abandoning module MovieSceneTools (160)
+[2017.04.02-15.27.27:664][ 24]LogModuleManager: Shutting down and abandoning module OutputLog (159)
+[2017.04.02-15.27.27:664][ 24]LogModuleManager: Shutting down and abandoning module GammaUI (158)
+[2017.04.02-15.27.27:665][ 24]LogModuleManager: Shutting down and abandoning module Documentation (157)
+[2017.04.02-15.27.27:665][ 24]LogModuleManager: Shutting down and abandoning module Niagara (156)
+[2017.04.02-15.27.27:665][ 24]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (155)
+[2017.04.02-15.27.27:665][ 24]LogModuleManager: Shutting down and abandoning module AnalyticsET (154)
+[2017.04.02-15.27.27:665][ 24]LogModuleManager: Shutting down and abandoning module PortalServices (153)
+[2017.04.02-15.27.27:665][ 24]LogModuleManager: Shutting down and abandoning module PortalRpc (152)
+[2017.04.02-15.27.27:665][ 24]LogModuleManager: Shutting down and abandoning module MessagingRpc (151)
+[2017.04.02-15.27.27:665][ 24]LogModuleManager: Shutting down and abandoning module GameplayDebugger (150)
+[2017.04.02-15.27.27:665][ 24]LogModuleManager: Shutting down and abandoning module AITestSuite (149)
+[2017.04.02-15.27.27:665][ 24]LogModuleManager: Shutting down and abandoning module AIModule (148)
+[2017.04.02-15.27.27:665][ 24]LogModuleManager: Shutting down and abandoning module ProfilerService (147)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module TaskGraph (146)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module SlateRemote (145)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module SteamVRController (144)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module SteamVR (143)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (142)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (141)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module OculusLibrary (140)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module OculusInput (139)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (138)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (137)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module CableComponent (136)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (135)
+[2017.04.02-15.27.27:677][ 24]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (134)
+[2017.04.02-15.27.27:678][ 24]LogModuleManager: Shutting down and abandoning module HTML5Networking (133)
+[2017.04.02-15.27.27:679][ 24]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (132)
+[2017.04.02-15.27.27:679][ 24]LogModuleManager: Shutting down and abandoning module GeometryCache (131)
+[2017.04.02-15.27.27:679][ 24]LogModuleManager: Shutting down and abandoning module AlembicLibrary (130)
+[2017.04.02-15.27.27:679][ 24]LogModuleManager: Shutting down and abandoning module AlembicImporter (129)
+[2017.04.02-15.27.27:679][ 24]LogModuleManager: Shutting down and abandoning module SuperSearch (128)
+[2017.04.02-15.27.27:679][ 24]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (127)
+[2017.04.02-15.27.27:679][ 24]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (126)
+[2017.04.02-15.27.27:679][ 24]LogModuleManager: Shutting down and abandoning module PluginBrowser (125)
+[2017.04.02-15.27.27:679][ 24]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (124)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module EpicSurvey (123)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module DesktopPlatform (122)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (121)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module UObjectPlugin (120)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (119)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (118)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module SourceControl (117)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module GitSourceControl (116)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (115)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (114)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (113)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module MeshPaint (112)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (111)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module HotReload (110)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module MainFrame (109)
+[2017.04.02-15.27.27:680][ 24]LogModuleManager: Shutting down and abandoning module LevelEditor (108)
+[2017.04.02-15.27.27:681][ 24]LogModuleManager: Shutting down and abandoning module ContentBrowser (107)
+[2017.04.02-15.27.27:681][ 24]LogModuleManager: Shutting down and abandoning module Paper2DEditor (106)
+[2017.04.02-15.27.27:682][ 24]LogModuleManager: Shutting down and abandoning module UdpMessaging (105)
+[2017.04.02-15.27.27:782][ 24]LogModuleManager: Shutting down and abandoning module TcpMessaging (104)
+[2017.04.02-15.27.27:882][ 24]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (103)
+[2017.04.02-15.27.27:882][ 24]LogModuleManager: Shutting down and abandoning module Paper2D (102)
+[2017.04.02-15.27.27:882][ 24]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (101)
+[2017.04.02-15.27.27:882][ 24]LogModuleManager: Shutting down and abandoning module WmfMedia (100)
+[2017.04.02-15.27.27:882][ 24]LogModuleManager: Shutting down and abandoning module MediaAssets (99)
+[2017.04.02-15.27.27:882][ 24]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (98)
+[2017.04.02-15.27.27:882][ 24]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (97)
+[2017.04.02-15.27.27:882][ 24]LogModuleManager: Shutting down and abandoning module VREditor (96)
+[2017.04.02-15.27.27:882][ 24]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (95)
+[2017.04.02-15.27.27:882][ 24]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (94)
+[2017.04.02-15.27.27:883][ 24]LogModuleManager: Shutting down and abandoning module FunctionalTesting (93)
+[2017.04.02-15.27.27:883][ 24]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (92)
+[2017.04.02-15.27.27:883][ 24]LogModuleManager: Shutting down and abandoning module Sequencer (91)
+[2017.04.02-15.27.27:884][ 24]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (90)
+[2017.04.02-15.27.27:884][ 24]LogModuleManager: Shutting down and abandoning module MessageLog (89)
+[2017.04.02-15.27.27:884][ 24]LogModuleManager: Shutting down and abandoning module AssetTools (88)
+[2017.04.02-15.27.27:885][ 24]LogModuleManager: Shutting down and abandoning module UMGEditor (87)
+[2017.04.02-15.27.27:885][ 24]LogModuleManager: Shutting down and abandoning module UMG (86)
+[2017.04.02-15.27.27:885][ 24]LogModuleManager: Shutting down and abandoning module SlateReflector (85)
+[2017.04.02-15.27.27:886][ 24]LogModuleManager: Shutting down and abandoning module Slate (84)
+[2017.04.02-15.27.27:886][ 24]LogModuleManager: Shutting down and abandoning module EditorStyle (83)
+[2017.04.02-15.27.27:888][ 24]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (82)
+[2017.04.02-15.27.27:888][ 24]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (81)
+[2017.04.02-15.27.27:888][ 24]LogModuleManager: Shutting down and abandoning module XAudio2 (80)
+[2017.04.02-15.27.27:888][ 24]LogModuleManager: Shutting down and abandoning module Networking (79)
+[2017.04.02-15.27.27:888][ 24]LogModuleManager: Shutting down and abandoning module Core (78)
+[2017.04.02-15.27.27:888][ 24]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (77)
+[2017.04.02-15.27.27:889][ 24]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.02-15.27.27:889][ 24]LogDirectoryWatcher: A directory notification for '../../../../../../Users/didwo/Desktop/SteamProject 4.14ver/Content/' was aborted.
+[2017.04.02-15.27.27:889][ 24]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.02-15.27.27:889][ 24]LogModuleManager: Shutting down and abandoning module AssetRegistry (76)
+[2017.04.02-15.27.28:039][ 24]LogModuleManager: Shutting down and abandoning module KismetCompiler (75)
+[2017.04.02-15.27.28:039][ 24]LogModuleManager: Shutting down and abandoning module PhysXFormats (74)
+[2017.04.02-15.27.28:039][ 24]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (73)
+[2017.04.02-15.27.28:039][ 24]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (72)
+[2017.04.02-15.27.28:039][ 24]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (71)
+[2017.04.02-15.27.28:039][ 24]LogModuleManager: Shutting down and abandoning module PropertyEditor (70)
+[2017.04.02-15.27.28:039][ 24]LogModuleManager: Shutting down and abandoning module MeshUtilities (69)
+[2017.04.02-15.27.28:039][ 24]LogModuleManager: Shutting down and abandoning module DerivedDataCache (68)
+[2017.04.02-15.27.28:082][ 24]LogDerivedDataCache: Shutdown
+[2017.04.02-15.27.28:082][ 24]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (67)
+[2017.04.02-15.27.28:082][ 24]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (66)
+[2017.04.02-15.27.28:083][ 24]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (65)
+[2017.04.02-15.27.28:083][ 24]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (64)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (63)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (62)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (61)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (60)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module ImageWrapper (59)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (58)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (57)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (56)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (55)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (54)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (53)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (52)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (51)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (50)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (49)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module Messaging (48)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (47)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (46)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (45)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (44)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (43)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (42)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (41)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (40)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (39)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (38)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (37)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (36)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (35)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (34)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (33)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (32)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (31)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (30)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (29)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module TargetPlatform (28)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module InputCore (27)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module Settings (26)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module OculusRift (25)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (24)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (23)
+[2017.04.02-15.27.28:084][ 24]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.02-15.27.28:084][ 24]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.02-15.27.28:085][ 24]LogOnline:Display: Unloading online subsystem: STEAM
+[2017.04.02-15.27.28:085][ 24]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.02-15.27.28:085][ 24]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.02-15.27.28:086][ 24]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.02-15.27.28:086][ 24]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.02-15.27.28:088][ 24]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.02-15.27.28:088][ 24]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.02-15.27.28:088][ 24]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.02-15.27.28:088][ 24]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.02-15.27.28:091][ 24]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.02-15.27.28:092][ 24]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.02-15.27.28:092][ 24]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.02-15.27.28:092][ 24]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.02-15.27.28:092][ 24]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.02-15.27.28:092][ 24]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.02-15.27.28:092][ 24]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.02-15.27.28:092][ 24]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.02-15.27.28:092][ 24]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.02-15.27.28:092][ 24]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.02-15.27.28:094][ 24]LogExit: Exiting.
+[2017.04.02-15.27.28:095][ 24]Log file closed, 04/03/17 00:27:28
